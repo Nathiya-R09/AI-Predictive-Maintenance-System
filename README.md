@@ -26,5 +26,8 @@ The Arduino code is available in `arduino_code.ino`.
 When temperature is normal, buzzer is OFF.  
 When temperature is above 70°C, buzzer is ON.
 
+## Project Report
+
+[Download Project Report](project_report.pdf)
 ## Author
 Nathiya R
